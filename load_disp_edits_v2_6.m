@@ -1,8 +1,5 @@
 function load_disp_edits()
 
-% Written by Jalen Winfield (Research Engineer Co-op, Fall/Winter 2022)
-% 03/14/2022
-
 % Written by Josh McGuckin (Associate Research Engineer, Summer 2022)
 % 07/31/2023
 
